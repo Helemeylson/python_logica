@@ -33,6 +33,7 @@ class PessoaFisica(Pessoa):
         print(f"nome: {self.nome}")
         print(f"email : {self.email}")
         print(f"profissao: {self.profissao}")
+        super().exibir_dados()
        
 
 class PessoaJuridica(Pessoa):
