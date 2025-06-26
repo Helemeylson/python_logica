@@ -1,6 +1,6 @@
 import random
 
-class Pessoa:
+class Pessoa:#creates a new person
         def __init__(self, nome, email, profissao, humor):
 
 
