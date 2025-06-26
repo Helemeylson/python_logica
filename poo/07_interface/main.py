@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
                
             case "4":
-                print("programa encerrado")
+                print("programa encerrando...")
                 break
             case _:
                 print("opção inválida")
